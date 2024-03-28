@@ -3,7 +3,7 @@ A WAD Collection of GoranObal's Soundfont Combo Mix Music Packs for Classic Doom
 
 ## This repository is still under construction, and will be for a long while
 
-<!-- #    Catalogue
+<!--
 
 ## IWADs
 
@@ -14,6 +14,9 @@ A WAD Collection of GoranObal's Soundfont Combo Mix Music Packs for Classic Doom
 | Doom II: Hell On Earth | Doom2.wad |  | - | - | - |
 | TNT: Evilution | TNT.wad |  | - |  |
 | The Plutonia Experiment* | Plutonia.wad |   | - | - | - |
+| FreeDoom: Phase 1 | freedoom1.wad |   | - | - | - |
+| FreeDoom: Phase 2 | freedoom2.wad |   | - | - | - |
+| FreeDM | freedm.wad |   | - | - | - |
 
 ## MIDI Packs
 
@@ -30,11 +33,12 @@ A WAD Collection of GoranObal's Soundfont Combo Mix Music Packs for Classic Doom
 
 ## PWADs
 
-| Pack Name | WAD Name | Link | WAD |  MP3 | Both |
+| WAD Name | WAD Used, File Name | Link | WAD |  MP3 | Both |
 | --- | --- | --- | --- | --- | --- |
 | 2002: A Doom Odyssey | Doom.wad, 2002ado.wad |  | - | - | - |
 | 2022: A Doom Odyssey | Doom.wad, 2022ado.wad |  | - | - | - |
 | Ancient Aliens | Doom2.wad, aaliens.wad |  | - | - | - |
+| Arrival | Doom2.wad, arrival.wad |  | - | - | - |
 | Back to Saturn X Episode 1: Get Out of My Station | Doom2.wad, btsx_e1a.wad, btsx_e1b.wad |   | - | - | - |
 | Back to Saturn X Episode 2: Tower in the Fountain of Sparks | Doom2.wad, btsx_e2a.wad, btsx_e2b.wad |   | - | - | - |
 | Doom the Way id Did | Doom.wad, dtwid.wad |   | - | - | - |
@@ -63,5 +67,5 @@ A WAD Collection of GoranObal's Soundfont Combo Mix Music Packs for Classic Doom
 | The Given | Doom2.wad, TheGiven.wad |   | - | - | - |
 | THT Threnody | Doom2.wad, THTThren.wad |   | - | - | - |
 | TNT: Revilution | TNT.wad, TNTR.wad |   | - | - | - |
-| Overboard | Doom2.wad, Valiant.wad |   | - | - | - |
+| Valiant | Doom2.wad, Valiant.wad |   | - | - | - |
 -->
